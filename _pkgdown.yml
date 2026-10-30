@@ -1,3 +1,4 @@
+title: SCAIRM
 url: https://scairm.github.io/
 template:
   bootstrap: 5
@@ -5,7 +6,3 @@ navbar:
   structure:
     left:  [articles]
     right: [github, search]
-  components:
-    articles:
-      text: "Articles"
-      menu: []
