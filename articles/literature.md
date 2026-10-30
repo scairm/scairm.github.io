@@ -4,16 +4,18 @@ This page will list relevant literature relating to the SCAIRM model
 
 ### Model definition and essentials
 
-- Piet et al. (2023) describes the original SCAIRM framework.
+- Piet et al. ([2023](#ref-piet_scairm_2023)) describes the original
+  SCAIRM framework.
 
 ### Applications of the SCAIRM model
 
-- Tamis et al. (2024) presents a mental model for considering multi-use
-  in marine spatial planning and how SCAIRM can assist in evaluating
-  scenarios
-- Piet et al. (2024) links SCAIRM calculated impacts to ecosystem
-  services, in order to assess which services are threatened and to
-  bridge the gap between exact and social science.
+- Tamis et al. ([2024](#ref-tamis_assessing_2024)) presents a mental
+  model for considering multi-use in marine spatial planning and how
+  SCAIRM can assist in evaluating scenarios
+- Piet et al. ([2024](#ref-piet_cumulative_2024)) links SCAIRM
+  calculated impacts to ecosystem services, in order to assess which
+  services are threatened and to bridge the gap between exact and social
+  science.
 
 ## References
 
