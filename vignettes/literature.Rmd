@@ -1,0 +1,34 @@
+---
+title: "Literature"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Literature}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+bibliography: "`r system.file('literature.bib', package = 'scairm.github.io')`"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+library(scairm.github.io)
+```
+
+This page will list relevant literature relating to the SCAIRM model
+
+### Model definition and essentials
+
+* @piet_scairm_2023 describes the original SCAIRM framework.
+
+### Applications of the SCAIRM model
+
+* @tamis_assessing_2024 presents a mental model for considering multi-use
+  in marine spatial planning and how SCAIRM can assist in evaluating
+  scenarios
+* @piet_cumulative_2024 links SCAIRM calculated impacts to ecosystem
+  services, in order to assess which services are threatened and to
+  bridge the gap between exact and social science. 
+
+## References

@@ -1,0 +1,22 @@
+Package: scairm.github.io
+Title: Renders Website for SCAIRM
+Version: 0.0.1
+Authors@R:
+    c(
+      person(
+        "Pepijn", "de Vries",
+        role = c("cre", "aut"),
+        email = "pepijn.devries@outlook.com",
+        comment = c(ORCID = "0000-0002-7961-6646")
+      )
+    )
+Description: Uses pkgdown and github workflows to automatically
+    generate the SCAIRM website
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Config/roxygen2/version: 8.1.0
