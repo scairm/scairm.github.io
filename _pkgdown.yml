@@ -8,3 +8,4 @@ navbar:
   components:
     articles:
       text: "Articles"
+      menu: []
